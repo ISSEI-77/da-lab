@@ -1,0 +1,6 @@
+Patient_ID,Age,Gender,Diagnosis,BP,Cholesterol,Outcome
+P001,45,M,Hypertension,140,High,Recovered
+P002,60,F,Diabetes,135,Normal,Recovered
+P003,55,M,Hypertension,160,High,Not Recovered
+P004,30,F,Healthy,120,Normal,Recovered
+P005,50,M,Hypertension,150,High,Recovered
